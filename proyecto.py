@@ -1,3 +1,4 @@
+NO SE QUE HICE LOCAS PERO ES UN CODIGO RANDOM NOMAS
 import sqlite3
 
 # Conectar a la base de datos (se crea si no existe)
